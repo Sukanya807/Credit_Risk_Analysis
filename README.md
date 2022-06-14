@@ -29,4 +29,13 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
 3. The precision for low-risk loans is very high at approximately 100% and the sensitivity is around 68%
 
  *Precision is the measure of how reliable a positive classification is*
+ 
  *Sensitivity or Recall is the ability of the classifier to find all the positive samples*
+ 
+ ### SMOTE Oversampling
+ 
+ ![](images/acc_score_SMOTE.png)
+ 
+ ![](images/SMOTE_Oversampling_cm.png)
+ 
+ ![](images/ SMOTE_Oversampling_CR.png)
