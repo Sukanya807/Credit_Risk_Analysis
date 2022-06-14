@@ -14,7 +14,7 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
 
 ## Results
 
-#### Random Oversampling Model
+### Random Oversampling Model
 
 ![](images/accuracy_score_random_oversampling.png)
 
@@ -22,4 +22,10 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
 
 ![](images/random_oversampling_classification_report.png)
 
+##### Observations
 
+1. The accuracy score of the Random Oversampling Model is approximately 63%. 
+2. The precision for high-risk loans is very low at 1% and the sensitivity is around 57%
+3. The precision for low-risk loans is very high at approximately 100% and the sensitivity is around 68%
+
+*** Precision is the measure of how reliable a positive classification is.***
