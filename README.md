@@ -56,4 +56,13 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
 1. The balanced accuracy score for the Cluster Centroids Undersampling model is approximately 52%
 2. The precision is very low for high-risk loans and very high for low-risk loans at 1% and 100% respectively
 3. The recall for high-risk loans is around 57% and for low-risk loans is around 46%
+
+
+### SMOTEENN Model
+
+![](images/acc_score_SMOTEENN.png)
+
+![](images/SMOTEENN_CM.png)
+
+![](images/SMOTEENN_CR.png)
  
