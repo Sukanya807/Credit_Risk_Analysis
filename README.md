@@ -8,4 +8,18 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
 - **SMOTEENN** algorithm to predict credit risk
 - Ensemble Classifiers to predict credit risk - **BalancedRandomForestClassifier, EasyEnsembleClassifier**
 
+## Resources
+- Data : LoanStats_2019Q1.csv
+- Software : Python, Jupyter Notebook
+
+## Results
+
+#### Random Oversampling Model
+
+![](images/accuracy_score_random_oversampling.png)
+
+![](images/random_oversampling_confusion_matrix.png)
+
+![](images/random_oversampling_classification_report.png)
+
 
