@@ -94,5 +94,18 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
 ![](images/eec_CM.png)
 ![](images/eec_CR.png)
 
+#### Observations
+
+1. The balanced accuracy score for this model is approximately 93%
+2. The precision for high-risk loans is approximately 70% and 100% for low-risk loans
+3. The recall for high-risk loans is approximately 91% and 94% for low-risk loans
+
+
+**** Note
+
+*Precision is the measure of how reliable a positive classification is. A low precision is indicative of a large number of false positives.*
+
+*Recall is the ability of the classifier to find all the positive samples. A low recall is indicative of a large number of false negatives.*
+
 
  
