@@ -84,7 +84,7 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
 #### Observations
 
 1. The balanced accuracy score for this model is approximately 79%
-2. The precision for high-risk loans is approximately .4 and for low-risk loans is 1
+2. The precision for high-risk loans is approximately .04 and for low-risk loans is 1
 3. The recall for high-risk loans is approximately .67 and for low-risk loans is approximately .91
 
 
