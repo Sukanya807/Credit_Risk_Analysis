@@ -22,7 +22,7 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
 
 ![](images/random_oversampling_classification_report.png)
 
-##### Observations
+#### Observations
 
 1. The balanced accuracy score of the Random Oversampling Model is approximately 63%
 2. The precision for high-risk loans is very low at 1% and very high for low-risk loans at 100%
@@ -37,7 +37,7 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
  
  ![](images/SMOTE_Oversampling_CR.png)
  
- ##### Observations
+ #### Observations
  
  1. The balanced accuracy score for the SMOTE model is approximately 63%.
  2. The precision is low for high-risk loans at 1% and high for low risk loans at 100%
@@ -50,4 +50,10 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
 ![](images/CC_Undersampling_CM.png)
 
 ![](images/CC_Undersampling_CR.png)
+
+#### Observations
+
+1. The balanced accuracy score for the Cluster Centroids Undersampling model is approximately 52%
+2. The precision is very low for high-risk loans and very high for low-risk loans at 1% and 100% respectively
+3. The recall for high-risk loans is around 57% and for low-risk loans is around 46%
  
