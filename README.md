@@ -29,7 +29,7 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
 3. The recall for high-risk loans is around 57% and it is  68% for low-risk loans
 
 
- ### SMOTE Oversampling
+ ### SMOTE Oversampling Model
  
  ![](images/acc_score_SMOTE.png)
  
@@ -42,4 +42,12 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
  1. The balanced accuracy score for the SMOTE model is approximately 63%.
  2. The precision is low for high-risk loans at 1% and high for low risk loans at 100%
  3. The recall is similar for both high-risk and low-risk loans at approximately 63% 
+
+### Cluster Centroids Undersampling Model
+
+![](images/acc_Score_CC.png)
+
+![](images/CC_Undersampling_CM.png)
+
+![](images/CC_Undersampling_CR.png)
  
