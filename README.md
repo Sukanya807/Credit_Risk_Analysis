@@ -38,3 +38,5 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
  
  ![](images/SMOTE_Oversampling_cm.png)
  
+ ![](images/SMOTE_Oversampling_CR.png)
+ 
