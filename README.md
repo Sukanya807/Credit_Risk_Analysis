@@ -103,9 +103,9 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
 
 **Note**
 
-*Precision is the measure of how reliable a positive classification is. A low precision is indicative of a large number of false positives.*
+- *Precision is the measure of how reliable a positive classification is. A low precision is indicative of a large number of false positives.*
 
-*Recall is the ability of the classifier to find all the positive samples. A low recall is indicative of a large number of false negatives.*
+- *Recall is the ability of the classifier to find all the positive samples. A low recall is indicative of a large number of false negatives.*
 
 
  
