@@ -101,7 +101,7 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
 3. The recall for high-risk loans is approximately 91% and 94% for low-risk loans
 
 
-**** Note
+**Note**
 
 *Precision is the measure of how reliable a positive classification is. A low precision is indicative of a large number of false positives.*
 
