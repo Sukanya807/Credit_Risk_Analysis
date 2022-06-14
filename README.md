@@ -65,4 +65,27 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
 ![](images/SMOTEENN_CM.png)
 
 ![](images/SMOTEENN_CR.png)
+
+#### Observations
+
+1. The balanced accuracy score of this model is approximately 62%
+2. The precision is very low for high-risk loans and very high for low-risk loans at 1% and 100% respectively
+3. The recall for high-risk loans is around 70% and for low-risk loans is around 54%
+
+
+### Balanced Random Forest Classifier Model
+
+![](images/acc_score_brfc.png)
+
+![](images/brfc_CM.png)
+
+![](images/brfc_CR.png)
+
+#### Observations
+
+1. The balanced accuracy score for this model is approximately 79%
+2. The precision for high-risk loans is approximately 40% and for low-risk loans is 100%
+3. The recall for high-risk loans is approximately 67% and for low-risk loans is approximately 91%
+
+
  
