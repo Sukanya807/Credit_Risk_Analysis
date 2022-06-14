@@ -14,7 +14,7 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
 
 ## Results
 
-### Random Oversampling Model
+### 1.Random Oversampling Model
 
 ![](images/accuracy_score_random_oversampling.png)
 
@@ -29,7 +29,7 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
 3. The recall for high-risk loans is around 57% and it is  68% for low-risk loans
 
 
- ### SMOTE Oversampling Model
+ ### 2.SMOTE Oversampling Model
  
  ![](images/acc_score_SMOTE.png)
  
@@ -43,7 +43,7 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
  2. The precision is low for high-risk loans at 1% and high for low risk loans at 100%
  3. The recall is similar for both high-risk and low-risk loans at approximately 63% 
 
-### Cluster Centroids Undersampling Model
+### 3.Cluster Centroids Undersampling Model
 
 ![](images/acc_Score_CC.png)
 
@@ -58,7 +58,7 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
 3. The recall for high-risk loans is around 57% and for low-risk loans is around 46%
 
 
-### SMOTEENN Model
+### 4.SMOTEENN Model
 
 ![](images/acc_score_SMOTEENN.png)
 
@@ -73,7 +73,7 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
 3. The recall for high-risk loans is around 70% and for low-risk loans is around 54%
 
 
-### Balanced Random Forest Classifier Model
+### 5.BalancedRandomForestClassifier Model
 
 ![](images/acc_score_brfc.png)
 
@@ -86,6 +86,13 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
 1. The balanced accuracy score for this model is approximately 79%
 2. The precision for high-risk loans is approximately 40% and for low-risk loans is 100%
 3. The recall for high-risk loans is approximately 67% and for low-risk loans is approximately 91%
+
+
+### 6.EasyEnsembleClassifier Model
+
+![](images/acc_score_EEC.png)
+![](images/eec_CM.png)
+![](images/eec_CR.png)
 
 
  
