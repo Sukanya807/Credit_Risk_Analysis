@@ -1,5 +1,5 @@
 # Credit_Risk_Analysis
-Machine Learning
+Supervised Machine Learning
 
 ## Analysis and Purpose
 This project has been undertaken on behalf of "Fast Lending", a fictitious peer to peer lending services company that uses machine learning to predict credit risk. Credit Risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. Therefore, different techniques have been employed to train and evaluate models with unbalanced classes. This analysis includes evaluating several models to understand their efficiency to predict credit risk. The models used for this analysis include - 
