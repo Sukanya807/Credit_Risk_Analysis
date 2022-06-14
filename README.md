@@ -24,9 +24,10 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
 
 ##### Observations
 
-1. The accuracy score of the Random Oversampling Model is approximately 63%. 
-2. The precision for high-risk loans is very low at 1% and the sensitivity is around 57%
-3. The precision for low-risk loans is very high at approximately 100% and the sensitivity is around 68%
+1. The balanced accuracy score of the Random Oversampling Model is approximately 63%
+2. The precision for high-risk loans is very low at 1% and very high for low-risk loans at 100%
+3. The recall for high-risk loans is around 57% and it is  68% for low-risk loans
+
 
  ### SMOTE Oversampling
  
@@ -35,4 +36,10 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
  ![](images/SMOTE_Oversampling_cm.png)
  
  ![](images/SMOTE_Oversampling_CR.png)
+ 
+ ##### Observations
+ 
+ 1. The balanced accuracy score for the SMOTE model is approximately 63%.
+ 2. The precision is low for high-risk loans at 1% and high for low risk loans at 100%
+ 3. The recall is similar for both high-risk and low-risk loans at approximately 63% 
  
